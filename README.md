@@ -20,6 +20,7 @@ A modern JavaFX application for secure file transfer between users with MySQL da
 
 - Java 17 or higher
 - MySQL Server
+- Place the javafx-sdk-24.0.1 and mysql-connector-j-8.3.0 folders in the same directory
 
 ## Setup
 
